@@ -72,7 +72,7 @@ GitHub URL → Fetch Data → Commit Analysis → AI Analysis → Scoring → Re
 
 ##  Tech Stack
 
-- **AI/ML:** Groq Llama 3.1 (FREE API)
+- **AI/ML:** Groq Llama 3.1 
 - **Backend:** Python 3.8+
 - **Frontend:** Streamlit
 - **APIs:** GitHub REST API, Groq AI API
