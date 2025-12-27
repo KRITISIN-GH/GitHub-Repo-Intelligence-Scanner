@@ -2,6 +2,6 @@ groq
 streamlit
 pandas
 requests
-PyGithub
+pygithub
 plotly
 python-dotenv
