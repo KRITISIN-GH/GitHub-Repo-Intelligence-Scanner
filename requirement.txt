@@ -1,0 +1,7 @@
+groq
+streamlit
+pandas
+requests
+PyGithub
+plotly
+python-dotenv
